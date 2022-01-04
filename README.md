@@ -13,7 +13,7 @@ _programming stuff_
 - JavaScript _(in progress (wow (parentheses go brrrr)))_
 - PHP
 - Java
-- CSS3
+- **jokes**
 
 _tech stack_
 - React (im lazy to write the same thing of "in progress" (oh wait i writted it again))
