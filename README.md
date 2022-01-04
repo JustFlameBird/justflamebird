@@ -11,11 +11,11 @@
 ##### _nah, "Trying to learn" is better_
 _programming stuff_
 - JavaScript _(in progress (wow (parentheses go brrrr)))_
-- PHP
 - Java
-- **jokes**
+- ruby
 
 _tech stack_
+- VueJS (vuejs2 ya know)
 - React (im lazy to write the same thing of "in progress" (oh wait i writted it again))
 - NodeJS (same thing you know)
 
